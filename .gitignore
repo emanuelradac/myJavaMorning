@@ -1,2 +1,4 @@
 //Test
 artifactID.iml
+/target
+.idea
